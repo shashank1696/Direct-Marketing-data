@@ -31,5 +31,6 @@ Predicting the Amount Spent by different class of people using Decision Tree  Al
 8) matplotlib.pyplot
 
 ## Conclusion
-Classification of various aspects are considered and Decision tree is constructed using Decision Tree Classifier
-Algorithm with 90.8% accuarcy.
+Considering various aspects a Decision tree is constructed using Decision Tree Regressor
+Algorithm to predict the Amount Spent by the customers with 59.2% accuarcy where the depth
+of the tree is 3.
